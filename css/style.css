@@ -1,0 +1,22 @@
+.parag{
+    color: darkorchid;
+    font-size: 36px;
+    font-family: cursive;
+}
+
+.but{
+    color: brown;
+    background-color: cyan;
+    font-family: cursive;
+    display: block;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+div{
+    border: 5px solid burlywood;
+    text-align: center;
+}
